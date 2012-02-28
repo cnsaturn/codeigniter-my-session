@@ -1,3 +1,5 @@
+[查看简体中文版README](https://github.com/Situos/codeigniter-my-session/wiki)
+
 ## Intro
 
 Another CodeIgniter session library that utilizes the Native PHP session mechanism instead of the original CI cookie-based OR DB-based way. It takes Memcached as the session datastore, which will boost the performance of your app. Also, it supports all the [original features](http://codeigniter.com/user_guide/libraries/sessions.html), such as flash session.
