@@ -1,4 +1,4 @@
-[查看简体中文版README](https://github.com/Situos/codeigniter-my-session/wiki)
+[查看简体中文版README](https://github.com/cnsaturn/codeigniter-my-session/wiki)
 
 ## Intro
 
@@ -12,6 +12,7 @@ Another CodeIgniter session library that utilizes the Native PHP session mechani
 
 * PHP 5.2.0 +
 * CodeIgniter 2.0 +
+* [memcached extension](http://pecl.php.net/package/memcache)
 
 ## HOW TO USE?
 
