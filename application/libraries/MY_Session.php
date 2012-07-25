@@ -10,9 +10,10 @@
  *
  *	@package    CodeIgniter
  *	@subpackage Libraries
- *	@category	Libraries
- *	@author		Situo Dev Team <hello@situos.com>
+ *	@category   Libraries
+ *	@author     Saturn <yangg.hu@gmail.com>
  *	@license    The MIT license
+ *	@link       https://github.com/cnsaturn/codeigniter-my-session
  */
 
 // Set session configs...
