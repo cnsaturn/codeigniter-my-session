@@ -6,13 +6,13 @@ Another CodeIgniter session library that utilizes the Native PHP session mechani
 
 ## Author
 
-* [HU Yang Gang](https://github.com/Situos/codeigniter-my-session), aka. Saturn
+* [HU Yang Gang](https://github.com/cnsaturn), aka. Saturn
 
 ## Requirement
 
 * PHP 5.2.0 +
 * CodeIgniter 2.0 +
-* [memcached extension](http://pecl.php.net/package/memcache)
+* [libmemcached php extension](http://pecl.php.net/package/memcached)
 
 ## HOW TO USE?
 
