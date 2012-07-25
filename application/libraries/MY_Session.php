@@ -206,7 +206,7 @@ class Cache_Session_Handler
 			// and set as the primary cache solution
 			$this->_CI->load->driver(
 				'cache',
-				array('adapter' => 'memcache', 'backup' => 'file'
+				array('adapter' => 'memcached', 'backup' => 'file'
 			));
 		}
 	}
