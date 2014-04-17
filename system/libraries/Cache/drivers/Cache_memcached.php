@@ -89,7 +89,7 @@ class CI_Cache_memcached extends CI_Driver {
 	 */
 	public function replace($id, $data, $ttl = 60)
 	{		
-		$result = $this->_memcached->replace($id, array($data, time(), $ttl), 0, $ttl);
+		$result = $this->_memcached->replace($id, array($data, time(), $ttl), $ttl);
 		if($result === FALSE)
 		{
 			$result = $this->save($id, $data, $ttl);
